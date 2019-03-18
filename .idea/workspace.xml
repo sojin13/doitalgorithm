@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1170231f-13d4-45ee-b908-c45764281109" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/BinSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/BinarySearchTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/SeqSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/SeqSearchFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/SeqSearchSen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/GenericClassTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/IdTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/PhysExamSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/StringBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/X.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap03/BinarySearchTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/BinarySearchTester.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,51 +18,87 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap03/SeqSearch.java">
+        <entry file="file://$PROJECT_DIR$/src/chap03/IdTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-end-line="44" />
+            <state relative-caret-position="361">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap03/SeqSearchFor.java">
+        <entry file="file://$PROJECT_DIR$/src/chap03/StringBinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="418">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap03/SeqSearchSen.java">
+        <entry file="file://$PROJECT_DIR$/src/chap03/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap03/BinSearch.java">
+        <entry file="file://$PROJECT_DIR$/src/chap03/X.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="247">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap03/PhysExamSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap03/BinarySearchTester.java">
+        <entry file="file://$PROJECT_DIR$/src/chap03/GenericClassTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="399">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#462#470#0" expanded="true" />
+                <element signature="e#525#534#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,12 +146,18 @@
         <option value="$PROJECT_DIR$/src/chap03/SeqSearchSen.java" />
         <option value="$PROJECT_DIR$/src/chap03/BinSearch.java" />
         <option value="$PROJECT_DIR$/src/chap03/BinarySearchTester.java" />
+        <option value="$PROJECT_DIR$/src/chap03/IdTester.java" />
+        <option value="$PROJECT_DIR$/src/chap03/StringBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/chap03/A.java" />
+        <option value="$PROJECT_DIR$/src/chap03/X.java" />
+        <option value="$PROJECT_DIR$/src/chap03/PhysExamSearch.java" />
+        <option value="$PROJECT_DIR$/src/chap03/GenericClassTester.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="653" />
-    <option name="width" value="1229" />
+    <option name="x" value="19" />
+    <option name="width" value="1112" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -153,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552895612698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552899941421" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -172,9 +216,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchTester">
-    <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.BinSearch" />
+  <component name="RunManager" selected="Application.GenericClassTester">
+    <configuration name="BinarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.BinarySearchTester" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -186,8 +230,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.BinarySearchTester" />
+    <configuration name="GenericClassTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.GenericClassTester" />
+      <module name="doitalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.IdTester" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +263,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.SeqSearch" />
+    <configuration name="PhysExamSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.PhysExamSearch" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -219,21 +276,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearchFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.SeqSearchFor" />
-      <module name="doitalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeqSearchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.SeqSearchSen" />
+    <configuration name="StringBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.StringBinarySearch" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -247,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericClassTester" />
+        <item itemvalue="Application.PhysExamSearch" />
+        <item itemvalue="Application.StringBinarySearch" />
+        <item itemvalue="Application.IdTester" />
         <item itemvalue="Application.BinarySearchTester" />
-        <item itemvalue="Application.BinSearch" />
-        <item itemvalue="Application.SeqSearchSen" />
-        <item itemvalue="Application.SeqSearchFor" />
-        <item itemvalue="Application.SeqSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -266,18 +310,18 @@
       <option name="presentableId" value="Default" />
       <updated>1552821072358</updated>
       <workItem from="1552821075530" duration="3948000" />
-      <workItem from="1552869924332" duration="16734000" />
+      <workItem from="1552869924332" duration="20011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20682000" />
+    <option name="totallyTimeSpent" value="23959000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="653" y="0" width="1229" height="1047" extended-state="0" />
+    <frame x="19" y="0" width="1112" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22070146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24524716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,7 +345,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32934132" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -534,10 +578,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap03/BinarySearchTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="246">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/IdTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/StringBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/PhysExamSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/GenericClassTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#462#470#0" expanded="true" />
+            <element signature="e#525#534#0" expanded="true" />
           </folding>
         </state>
       </provider>

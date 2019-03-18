@@ -15,7 +15,7 @@ public class BinarySearchTester {
         System.out.print("x[0] : ");
         x[0] = stdIn.nextInt();
 
-        for (int i=1; i<num;  i++) {
+        for (int i=1; i<num; i++) {
             do {
                 System.out.print("x[" + i + "] : ");
                 x[i] = stdIn.nextInt();
