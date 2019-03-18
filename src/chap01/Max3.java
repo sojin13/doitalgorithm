@@ -1,3 +1,5 @@
+package chap01;
+
 import java.util.Scanner;
 // 3개의 정수값을 입력하고 최댓값을 뽑아낼 것임
 
