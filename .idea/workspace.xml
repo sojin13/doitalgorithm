@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1170231f-13d4-45ee-b908-c45764281109" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap06/ArraysSortTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Fsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/MergeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/PhyscExamSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/SortCalander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/IntSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/IntSetTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/ToStringTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,28 +29,31 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49030644">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/chap06/PhyscExamSort.java">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/chap07/IntSet.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1140">
-                  <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+                <state relative-caret-position="294">
+                  <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#515#516#0" expanded="true" />
-                    <element signature="e#579#580#0" expanded="true" />
+                    <element signature="e#397#398#0" expanded="true" />
+                    <element signature="e#423#424#0" expanded="true" />
+                    <element signature="e#468#469#0" expanded="true" />
+                    <element signature="e#494#495#0" expanded="true" />
+                    <element signature="e#769#770#0" expanded="true" />
+                    <element signature="e#824#825#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/chap06/Fsort.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/chap07/ToStringTester.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="560">
-                  <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+                <state relative-caret-position="532">
+                  <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
                 </state>
               </provider>
             </entry>
@@ -64,10 +63,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/chap06/HeapSort.java">
+            <entry file="file://$PROJECT_DIR$/src/chap07/IntSetTester.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="617">
-                  <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+                <state relative-caret-position="361">
+                  <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
                 </state>
               </provider>
             </entry>
@@ -89,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CardConvRev.java" />
-        <option value="$PROJECT_DIR$/src/PrimeNumber1.java" />
-        <option value="$PROJECT_DIR$/src/PrimeNumber2.java" />
         <option value="$PROJECT_DIR$/src/PrimeNumber3.java" />
         <option value="$PROJECT_DIR$/src/Int2DArray.java" />
         <option value="$PROJECT_DIR$/src/chap02/DayOfYear.java" />
@@ -140,10 +136,13 @@
         <option value="$PROJECT_DIR$/src/chap06/PhyscExamSort.java" />
         <option value="$PROJECT_DIR$/src/chap06/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/chap06/Fsort.java" />
+        <option value="$PROJECT_DIR$/src/chap07/ToStringTester.java" />
+        <option value="$PROJECT_DIR$/src/chap07/IntSetTester.java" />
+        <option value="$PROJECT_DIR$/src/chap07/IntSet.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="19" />
     <option name="width" value="1091" />
     <option name="height" value="1047" />
@@ -173,7 +172,7 @@
               <item name="doitalgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="doitalgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap06" type="462c0819:PsiDirectoryNode" />
+              <item name="chap07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +184,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553150090083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553153845317" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -204,20 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fsort">
-    <configuration name="ArraysSortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.ArraysSortTester" />
-      <module name="doitalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IntSetTester">
     <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.Fsort" />
       <module name="doitalgorithm" />
@@ -251,6 +237,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntSetTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.IntSetTester" />
+      <module name="doitalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PhyscExamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.PhyscExamSort" />
       <module name="doitalgorithm" />
@@ -264,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCalander" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.SortCalander" />
+    <configuration name="ToStringTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.ToStringTester" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntSetTester" />
+        <item itemvalue="Application.ToStringTester" />
         <item itemvalue="Application.Fsort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.PhyscExamSort" />
-        <item itemvalue="Application.SortCalander" />
-        <item itemvalue="Application.ArraysSortTester" />
       </list>
     </recent_temporary>
   </component>
@@ -302,18 +301,18 @@
       <workItem from="1552955750258" duration="5442000" />
       <workItem from="1552972825310" duration="6284000" />
       <workItem from="1553042243096" duration="16255000" />
-      <workItem from="1553128986626" duration="11264000" />
+      <workItem from="1553128986626" duration="14735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63904000" />
+    <option name="totallyTimeSpent" value="67375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2559653" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2559653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,27 +378,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chap01/Max3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap01/Median.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap01/SumFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap01/SumForPos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -750,6 +728,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/Fsort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap06/PhyscExamSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
@@ -764,15 +749,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap06/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="513">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap06/Fsort.java">
+    <entry file="file://$PROJECT_DIR$/src/chap07/IntSetTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap07/ToStringTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap07/IntSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
