@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1170231f-13d4-45ee-b908-c45764281109" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap06/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/BubbleSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/QuickSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/QuickSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/ShellSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/bubbleSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/ArraysSortTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/Fsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/PhyscExamSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/SortCalander.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doitalgorithm/chap05/EightQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doitalgorithm/chap05/EightQueen.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,14 +33,28 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.49030644">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/chap06/PhyscExamSort.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+                <state relative-caret-position="1140">
+                  <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#515#516#0" expanded="true" />
+                    <element signature="e#579#580#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/chap06/Fsort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="560">
+                  <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -53,24 +62,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort1.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort2.java">
+            <entry file="file://$PROJECT_DIR$/src/chap06/HeapSort.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="19">
-                  <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="617">
+                  <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
                 </state>
               </provider>
             </entry>
@@ -92,13 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/IntArray.java" />
-        <option value="$PROJECT_DIR$/src/IntArrayInit.java" />
-        <option value="$PROJECT_DIR$/src/CloneArray.java" />
-        <option value="$PROJECT_DIR$/src/MaxOfArray.java" />
-        <option value="$PROJECT_DIR$/src/MaxOfArrayRand.java" />
-        <option value="$PROJECT_DIR$/src/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/ArrayEqual.java" />
         <option value="$PROJECT_DIR$/src/CardConvRev.java" />
         <option value="$PROJECT_DIR$/src/PrimeNumber1.java" />
         <option value="$PROJECT_DIR$/src/PrimeNumber2.java" />
@@ -143,6 +133,13 @@
         <option value="$PROJECT_DIR$/src/chap06/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/chap06/QuickSort1.java" />
         <option value="$PROJECT_DIR$/src/chap06/QuickSort2.java" />
+        <option value="$PROJECT_DIR$/src/chap06/MergeArray.java" />
+        <option value="$PROJECT_DIR$/src/chap06/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/chap06/ArraysSortTester.java" />
+        <option value="$PROJECT_DIR$/src/chap06/SortCalander.java" />
+        <option value="$PROJECT_DIR$/src/chap06/PhyscExamSort.java" />
+        <option value="$PROJECT_DIR$/src/chap06/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/chap06/Fsort.java" />
       </list>
     </option>
   </component>
@@ -188,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553065754276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553150090083" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -207,7 +204,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort2">
+  <component name="RunManager" selected="Application.Fsort">
+    <configuration name="ArraysSortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.ArraysSortTester" />
+      <module name="doitalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.Fsort" />
+      <module name="doitalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.HeapSort" />
+      <module name="doitalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntArray" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap02.IntArray" />
       <module name="doitalgorithm" />
@@ -215,8 +251,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.Partition" />
+    <configuration name="PhyscExamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.PhyscExamSort" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -228,47 +264,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.QuickSort" />
-      <module name="doitalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.QuickSort1" />
-      <module name="doitalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.QuickSort2" />
-      <module name="doitalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShellSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.ShellSort2" />
+    <configuration name="SortCalander" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.SortCalander" />
       <module name="doitalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -282,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort2" />
-        <item itemvalue="Application.QuickSort1" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Partition" />
-        <item itemvalue="Application.ShellSort2" />
+        <item itemvalue="Application.Fsort" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.PhyscExamSort" />
+        <item itemvalue="Application.SortCalander" />
+        <item itemvalue="Application.ArraysSortTester" />
       </list>
     </recent_temporary>
   </component>
@@ -305,15 +302,15 @@
       <workItem from="1552955750258" duration="5442000" />
       <workItem from="1552972825310" duration="6284000" />
       <workItem from="1553042243096" duration="16255000" />
-      <workItem from="1553128986626" duration="587000" />
+      <workItem from="1553128986626" duration="11264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53227000" />
+    <option name="totallyTimeSpent" value="63904000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
@@ -325,7 +322,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2559653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2559653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,58 +379,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chap02/CloneArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/IntArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/IntArrayInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/MaxOfArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/MaxOfArrayRand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap01/Digits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap01/JudgeSign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap01/Max3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -733,23 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap06/Partition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -766,8 +694,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="95">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/MergeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/ArraysSortTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/QuickSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/SortCalander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/PhyscExamSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/Fsort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
